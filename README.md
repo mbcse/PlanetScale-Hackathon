@@ -1,1 +1,1 @@
-# PlanetScale-Hackathon
+# Event-On-Chain
