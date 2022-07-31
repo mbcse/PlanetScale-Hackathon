@@ -37,9 +37,6 @@ export default {
   },
 
   DATABASE: {
-    MONGO: {
-      URI: process.env.MONGO_URI
-    },
     PLANETSCALE: {
       URI: process.env.PLANETSCALE_URI
     }
